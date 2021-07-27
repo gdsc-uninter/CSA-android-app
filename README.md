@@ -8,8 +8,6 @@ O app será estruturado usando a arquitetura MVVM e muitas blibiotecas do Androi
 ### [Prototype](https://www.figma.com/proto/oX71OevBT63G53fIfGrGXe/CSA-android-app?node-id=414%3A3543&scaling=scale-down&page-id=4%3A0&starting-point-node-id=414%3A3543&hide-ui=1)
 > Protótipo de todas as funcionalidades e do design do aplicativo
 
-<br/>
-
 ## Dependências
 
 #### [Material Design](https://material.io/components?platform=android)
