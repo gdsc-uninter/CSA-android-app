@@ -47,4 +47,30 @@ O Espresso é uma estrutura de teste para Android que torna mais fácil escrever
 Mockito é um framework mock popular que pode ser usado em conjunto com JUnit. O Mockito permite criar e configurar objetos fictícios. O uso do Mockito simplifica significativamente o desenvolvimento de testes para classes com dependências externas.
 
 #### [Firebase Authentication](https://firebase.google.com/docs/auth/)
-O Firebase Authentication fornece serviços de back-end, SDKs fáceis de usar e bibliotecas de IU prontas para autenticar usuários em seu aplicativo. Ele suporta autenticação usando senhas, números de telefone, provedores de identidade populares como Google, Facebook e Twitter e muito mais.
+O Firebase Authentication fornece serviços de back-end, SDKs fáceis de usar e bibliotecas de IU prontas para autenticar usuários em seu aplicativo. Ele suporta autenticação usando senhas, números de telefone, provedores de identidade populares como Google, Facebook e Twitter e muito mais.   
+
+<br/>
+
+```
+MIT License
+
+Copyright (c) 2021 Google DSC Uninter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
