@@ -6,7 +6,7 @@ O app será estruturado usando a arquitetura MVVM e muitas blibiotecas do Androi
 > Um visão geral de todo a arquitetura do projeto
 <br/>
 
-## Dependências de 
+## Dependências
 
 #### [Material Design](https://material.io/components?platform=android)
 Material é um sistema de design criado pelo Google para ajudar as equipes a criar experiências digitais de alta qualidade para Android, iOS, Flutter e web.
