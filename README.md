@@ -1,6 +1,6 @@
 # CSA android-app
 
-O app será estruturado usando a arquitetura MVVM e muitas blibiotecas do Android Jetpack. Listo algumas informações úteis de tudo que será usado no projeto:
+O app será estruturado usando a Clean Architecture + MVVM e muitas blibiotecas do Android Jetpack. Listo algumas informações úteis de tudo que será usado no projeto:
 
 ### [Android App Architecture](https://miro.com/app/board/o9J_l4kQfR4=/)
 > Um visão geral de todo a arquitetura do projeto
